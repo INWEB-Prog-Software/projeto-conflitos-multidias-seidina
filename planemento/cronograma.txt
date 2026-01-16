@@ -1,3 +1,4 @@
-Cronograma inicial:
-- Semana 1: Levantamento de requisitos
-- Semana 2: Estruturação da documentação
+Cronograma alternativo:
+- Fase 1: Análise
+- Fase 2: Implementação
+- Fase 3: Validação
