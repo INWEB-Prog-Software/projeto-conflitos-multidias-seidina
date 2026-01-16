@@ -1,5 +1,6 @@
 
-# Objetivos do Projeto
+## Versão alternativa dos objetivos
 
-- Definir processos internos de documentação
-- Garantir alinhamento entre equipas
+- Focar na automatização de relatórios
+- Reduzir redundância na documentação
+- Melhorar acessibilidade da informação
