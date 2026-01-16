@@ -1,0 +1,3 @@
+Decisões:
+- Utilizar GitHub para gestão de documentação.
+- Criar branches diárias para trabalho.
