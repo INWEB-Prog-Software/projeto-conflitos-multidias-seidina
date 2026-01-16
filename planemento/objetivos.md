@@ -15,3 +15,8 @@
 - Focar na automatização de relatórios
 - Reduzir redundância na documentação
 - Melhorar acessibilidade da informação
+
+## Estado atual
+
+- Estrutura base criada
+- Primeiros conflitos resolvidos com sucesso
