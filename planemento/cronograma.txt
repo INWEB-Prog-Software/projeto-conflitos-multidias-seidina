@@ -1,3 +1,9 @@
 Cronograma inicial:
 - Semana 1: Levantamento de requisitos
 - Semana 2: Estruturação da documentação
+
+Cronograma detalhado:
+- Semana 1: Levantamento de requisitos
+- Semana 2: Estruturação da documentação
+- Semana 3: Revisão com equipas
+- Semana 4: Ajustes finais
