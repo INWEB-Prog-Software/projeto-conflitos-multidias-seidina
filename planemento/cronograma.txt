@@ -1,0 +1,3 @@
+Cronograma inicial:
+- Semana 1: Levantamento de requisitos
+- Semana 2: Estruturação da documentação
