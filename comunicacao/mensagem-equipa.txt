@@ -1,2 +1,3 @@
 Mensagem à equipa:
-Vamos testar diferentes abordagens de planeamento em paralelo.
+Excelente trabalho na resolução dos primeiros conflitos.
+Continuem a usar branches diárias e commits pequenos.
